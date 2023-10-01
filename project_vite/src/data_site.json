@@ -1,0 +1,24 @@
+{
+    "header" : {
+        "name" : "DeadInsideArt",
+        "caption" : "Все для вас"
+    },
+    "article" : {
+        "name" : "Почему мы?",
+        "caption" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi quia delectus alias, minus neque laboriosam? Quam quia sint praesentium, unde animi tempora repudiandae eveniet totam vero ea at voluptatum dolore!"
+    },
+    "otziv" : {
+        "user1" : {
+            "name" : "Вадим Чекмарев",
+            "text" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi quia delectus alias, minus neque laboriosam? Quam quia sint praesentium, unde animi tempora repudiandae eveniet totam vero ea at voluptatum dolore!"
+        },
+        "user2" : {
+            "name" : "Самир Фамилия",
+            "text" :"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi quia delectus alias, minus neque laboriosam? Quam quia sint praesentium, unde animi tempora repudiandae eveniet totam vero ea at voluptatum dolore!"
+        },
+        "user3" : {
+            "name" : "Анастасия Фамилия",
+            "text" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi quia delectus alias, minus neque laboriosam? Quam quia sint praesentium, unde animi tempora repudiandae eveniet totam vero ea at voluptatum dolore!"
+        }
+    }
+}
